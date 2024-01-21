@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Mateen Jameel, jameelmateen34@gmail.com
-Data Analyst with expertise in population analysis and data visualization. Connect with me on [LinkedIn](www.linkedin.com/in/mateen-jameel) for collaboration or inquiries.
+Data Analyst with expertise in population analysis and data visualization. Connect with me on [LinkedIn](https://www.linkedin.com/in/mateen-jameel) for collaboration or inquiries.
 
 ## Acknowledgments
 - Data source: [World Bank Indicators for Total Population](https://data.worldbank.org/indicator/SP.POP.TOTL)
